@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Crisis Resolutions</title>
-    <link href="https://crisisresolutions.com/feed.xml" rel="self" />
-    <link href="https://crisisresolutions.com" />
+    <link href="https://crisisresolutions.github.io/feed.xml" rel="self" />
+    <link href="https://crisisresolutions.github.io" />
     <updated>2022-12-05T14:11:19+02:00</updated>
     <author>
         <name>Adam Apricot</name>
     </author>
-    <id>https://crisisresolutions.com</id>
+    <id>https://crisisresolutions.github.io</id>
 
     <entry>
         <title>History</title>
         <author>
             <name>Adam Apricot</name>
         </author>
-        <link href="https://crisisresolutions.com/history/index.html"/>
-        <id>https://crisisresolutions.com/history/index.html</id>
+        <link href="https://crisisresolutions.github.io/history/index.html"/>
+        <id>https://crisisresolutions.github.io/history/index.html</id>
 
         <updated>2022-12-05T14:11:19+02:00</updated>
             <summary></summary>
@@ -26,8 +26,8 @@
         <author>
             <name>Adam Apricot</name>
         </author>
-        <link href="https://crisisresolutions.com/help/index.html"/>
-        <id>https://crisisresolutions.com/help/index.html</id>
+        <link href="https://crisisresolutions.github.io/help/index.html"/>
+        <id>https://crisisresolutions.github.io/help/index.html</id>
 
         <updated>2022-12-05T13:19:17+02:00</updated>
             <summary></summary>
@@ -38,8 +38,8 @@
         <author>
             <name>Adam Apricot</name>
         </author>
-        <link href="https://crisisresolutions.com/habitats/index.html"/>
-        <id>https://crisisresolutions.com/habitats/index.html</id>
+        <link href="https://crisisresolutions.github.io/habitats/index.html"/>
+        <id>https://crisisresolutions.github.io/habitats/index.html</id>
 
         <updated>2022-12-05T13:19:04+02:00</updated>
             <summary></summary>
@@ -50,8 +50,8 @@
         <author>
             <name>Adam Apricot</name>
         </author>
-        <link href="https://crisisresolutions.com/habits/index.html"/>
-        <id>https://crisisresolutions.com/habits/index.html</id>
+        <link href="https://crisisresolutions.github.io/habits/index.html"/>
+        <id>https://crisisresolutions.github.io/habits/index.html</id>
 
         <updated>2022-12-05T13:18:56+02:00</updated>
             <summary></summary>
@@ -62,8 +62,8 @@
         <author>
             <name>Adam Apricot</name>
         </author>
-        <link href="https://crisisresolutions.com/hello/index.html"/>
-        <id>https://crisisresolutions.com/hello/index.html</id>
+        <link href="https://crisisresolutions.github.io/hello/index.html"/>
+        <id>https://crisisresolutions.github.io/hello/index.html</id>
 
         <updated>2022-12-05T13:18:48+02:00</updated>
             <summary></summary>
@@ -74,20 +74,20 @@
         <author>
             <name>Adam Apricot</name>
         </author>
-        <link href="https://crisisresolutions.com/welcome/index.html"/>
-        <id>https://crisisresolutions.com/welcome/index.html</id>
-        <media:content url="https://crisisresolutions.com/media/posts/1/photo-1593526613712-7b4b9a707330.jpeg" medium="image" />
+        <link href="https://crisisresolutions.github.io/welcome/index.html"/>
+        <id>https://crisisresolutions.github.io/welcome/index.html</id>
+        <media:content url="https://crisisresolutions.github.io/media/posts/1/photo-1593526613712-7b4b9a707330.jpeg" medium="image" />
 
         <updated>2022-12-05T13:42:47+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://crisisresolutions.com/media/posts/1/photo-1593526613712-7b4b9a707330.jpeg" alt="" />
+                        <img src="https://crisisresolutions.github.io/media/posts/1/photo-1593526613712-7b4b9a707330.jpeg" alt="" />
                     🫂 Being Good Together - Not just playing nice. Crisis Relief, Good&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://crisisresolutions.com/media/posts/1/photo-1593526613712-7b4b9a707330.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://crisisresolutions.github.io/media/posts/1/photo-1593526613712-7b4b9a707330.jpeg" class="type:primaryImage" alt="" /></p>
                 <p><strong>🫂 Being Good Together - Not just playing nice.</strong></p>
 <blockquote>
 <p>Crisis Relief, Good Ways Practice, and Good Governance of Energy for all People.</p>
