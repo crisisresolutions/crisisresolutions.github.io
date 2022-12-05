@@ -1,0 +1,89 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Crisis Resolutions",
+    "description": "",
+    "home_page_url": "https://crisisresolutions.com",
+    "feed_url": "https://crisisresolutions.com/feed.json",
+    "user_comment": "",
+    "icon": "https://crisisresolutions.com/media/website/crisisresolutions-logo-2.svg",
+    "author": {
+        "name": "Adam Apricot"
+    },
+    "items": [
+        {
+            "id": "https://crisisresolutions.com/history/index.html",
+            "url": "https://crisisresolutions.com/history/index.html",
+            "title": "History",
+            "author": {
+                "name": "Adam Apricot"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-05T14:11:19+02:00",
+            "date_modified": "2022-12-05T14:11:19+02:00"
+        },
+        {
+            "id": "https://crisisresolutions.com/help/index.html",
+            "url": "https://crisisresolutions.com/help/index.html",
+            "title": "Help",
+            "author": {
+                "name": "Adam Apricot"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-05T13:19:17+02:00",
+            "date_modified": "2022-12-05T13:19:17+02:00"
+        },
+        {
+            "id": "https://crisisresolutions.com/habitats/index.html",
+            "url": "https://crisisresolutions.com/habitats/index.html",
+            "title": "Habitats",
+            "author": {
+                "name": "Adam Apricot"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-05T13:19:04+02:00",
+            "date_modified": "2022-12-05T13:19:04+02:00"
+        },
+        {
+            "id": "https://crisisresolutions.com/habits/index.html",
+            "url": "https://crisisresolutions.com/habits/index.html",
+            "title": "Habits",
+            "author": {
+                "name": "Adam Apricot"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-05T13:18:56+02:00",
+            "date_modified": "2022-12-05T13:18:56+02:00"
+        },
+        {
+            "id": "https://crisisresolutions.com/hello/index.html",
+            "url": "https://crisisresolutions.com/hello/index.html",
+            "title": "Hello",
+            "author": {
+                "name": "Adam Apricot"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-05T13:18:48+02:00",
+            "date_modified": "2022-12-05T13:18:48+02:00"
+        },
+        {
+            "id": "https://crisisresolutions.com/welcome/index.html",
+            "url": "https://crisisresolutions.com/welcome/index.html",
+            "title": "Crisis Resolutions",
+            "summary": "🫂 Being Good Together - Not just playing nice. Crisis Relief, Good&hellip;",
+            "content_html": "<p><strong>🫂 Being Good Together - Not just playing nice.</strong></p>\n<blockquote>\n<p>Crisis Relief, Good Ways Practice, and Good Governance of Energy for all People.</p>\n</blockquote>\n<p>&lt;aside&gt; 🚧 \\\\Not LIVE as of yet - Under Development\\\\</p>\n<p>This is a Rapid Prototype of the Crisis Resolutions Project.</p>\n<p>We apologize for any inconsistencies, and thanking you for your patience and understanding.</p>\n<p>&lt;/aside&gt;</p>\n<hr>\n<p><img loading=\"lazy\" src=\"https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8841db58-89af-491b-b78c-8ddf99df6ad9/High_five-pana.svg\" alt=\"High five-pana.svg\" data-is-external-image=\"true\"></p>\n<blockquote>\n<p>By being Free from Prejudgments, we overcome all forms of human-sustained Crisis.</p>\n</blockquote>\n<p><a href=\"https://www.notion.so/Policies-1672c9641a9245f5a7deadaa9f94d437\">Policies</a></p>\n<p><a href=\"https://www.notion.so/Course-01d2d10ad73c4f47b05a8ca2b6d1d0e6\">Course</a></p>\n<hr><hr>\n<h3>🗺️ Crisis Resolutions SiteMap</h3>\n<p>🏠 <a href=\"https://www.notion.so/Crisis-Resolutions-8041d6dbdaa142cf8bb73e23cec9abe8\">Home</a></p>\n<p><a href=\"https://www.notion.so/Hello-4233e22f761a44a482e4c58a9ec39257\">Hello</a></p>\n<p><a href=\"https://www.notion.so/About-0bdbd36f83d04acfa3d94db5dae62456\">About </a></p>\n<p><a href=\"https://www.notion.so/Project-003d3ccc9bbc479aab2358d6def87502\">Project</a></p>\n<p><a href=\"https://www.notion.so/People-18291019023e4d8fbe77a799407f8557\">People</a></p>\n<p><a href=\"https://www.notion.so/Habitats-f236e31a42424e7fb0678d07a1a43498\">Habitats </a></p>\n<p><a href=\"https://www.notion.so/Apps-c9d7c50247ff4994b5103ab51d10c012\">Apps</a></p>\n<p><a href=\"https://www.notion.so/Store-527457486f644bd881781d8b37805b75\">Store</a></p>\n<p><a href=\"https://www.notion.so/Unities-1353a0d4a33f47ae88a3860ef8f16a44\">Unities</a></p>\n<p><a href=\"https://www.notion.so/Help-8f735bbb840b4f28b51a7c5fa280a19a\">Help </a></p>\n<p><a href=\"https://www.notion.so/Channels-930426f24b714e76a6fd9d6f8cb81ef9\">Channels</a></p>\n<p><a href=\"https://www.notion.so/Getting-Help-420c376bcc9a40188a42043f87d880f4\">Getting Help</a></p>\n<p><a href=\"https://www.notion.so/Giving-Help-1b60eac090a843c083a97e26cc3b4a52\">Giving Help</a></p>\n<hr>\n<p><a href=\"https://www.notion.so/Policies-1672c9641a9245f5a7deadaa9f94d437\">Policies</a></p>\n<p><a href=\"https://www.notion.so/Credits-10afaf91eae647b88d649718baee9281\">Credits</a></p>\n<p>✉️ <a href=\"https://www.notion.so/Help-8f735bbb840b4f28b51a7c5fa280a19a\">Contact</a></p>\n<p><a href=\"https://www.notion.so/Terms-bedf4b37656e4238a8f3333f339829d1\">Terms</a></p>\n<p><a href=\"https://www.notion.so/Donations-6917507128da4f11b1ecd8ae792ec0b3\">Donations</a></p>\n<hr><hr>\n<p>Made with ❤️ in Santorini &amp; the Athenian Riviera, Greece.</p>\n<p><a href=\"https://www.notion.so/License-CC-BY-SA-4-0-737e93afb0d0405e9b12eab095b71696\">License CC BY-SA 4.0</a></p>",
+            "image": "https://crisisresolutions.com/media/posts/1/photo-1593526613712-7b4b9a707330.jpeg",
+            "author": {
+                "name": "Adam Apricot"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-05T13:18:27+02:00",
+            "date_modified": "2022-12-05T13:42:47+02:00"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://crisisresolutions.com/sitemap.xml
